@@ -1,2 +1,2 @@
-# personal-reponsive-page
-personal-reponsive-page
+# egator-reponsive-page
+egator-reponsive-page
